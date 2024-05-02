@@ -1,4 +1,4 @@
-[![frdescam's 42 stats](https://badge42.vercel.app/api/v2/cl2kv9fc300060ammpgtuocfs/stats?cursusId=21&coalitionId=48)](https://profile.intra.42.fr/users/frdescam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pareidolies&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi! I'm a student at 42 school of Paris remotly, also studying embedded electronics at the Mines School of Saint-Étienne in Apprenticeship with Thales Alenia Space at Cannes
 
